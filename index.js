@@ -7,3 +7,4 @@ function displayWelcomeAlert() {
 
 // Call the function to display the alert
 displayWelcomeAlert();
+console.log("Hello user");
